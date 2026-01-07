@@ -1,10 +1,4 @@
-# Vendor Product Approval System
 
-## 🔗 GitHub Repository Link
-https://github.com/your-username/vendor-product-approval-system  
-(Replace with your actual GitHub repository link)
-
----
 
 ## 📌 Project Overview
 A full-stack web application where vendors can sign up, log in, add products, and track their approval status.  
